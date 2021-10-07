@@ -118,7 +118,7 @@
     <!--Footer Start here-->
     <section class=" footer">
         <div class="container text-center">
-            <p>All right reserved. Desgin by <a href="#">PhuongPham</a> </p>
+            <p>All right reserved. Desgin by <a href="#">QuangPhuong</a> </p>
         </div>
     </section>
     <!--Footer Ends here-->
